@@ -1,4 +1,4 @@
-# Wide Coverage Location
+# Wide Coverage Location - Interface
 
 <img src="./img/wide-location-video.gif" alt="exemplo imagem">
 
