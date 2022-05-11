@@ -1,6 +1,6 @@
 # Wide Coverage Location - Interface
 
-<img src="./img/wide-location-video.gif" alt="exemplo imagem">
+<img src="./img/wide-location-video.gif" alt="Wide-Location-Coverage-GIF" width="100%">
 
 > A interface foi desenvolvida com o objetivo voltado ao aprendizado de HTML, CSS e responsividade. Quando a interface atinge uma largura máxima de 600px o menu principal desaparece e o texto inverte de posição com a imagem.
 
